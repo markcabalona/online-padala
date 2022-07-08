@@ -1,3 +1,7 @@
+# SMART PADALA ONLINE TRANSACTION SLIP - CRUD OPERATION
+- This is our final requirement for information management course at TUP Manila
+- This app performs basic crud operations in sqlite
+
 # Quickstart
 Start the server by running the following commands.
 
@@ -19,3 +23,9 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app
 ```
+
+### Members
+- Balasta, Eyvind Zach
+- Buenaventura, Nicole Anne
+- Cabalona, Mark
+- Cajucson, Laylanie
